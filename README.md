@@ -1,0 +1,1 @@
+Very simple web template with HTML & CSS only. :D
